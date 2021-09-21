@@ -6,7 +6,16 @@
     <description>Recent content on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Endre Sørmo Rundsveen</title>
+      <link>https://fagkom.github.io/posts/rundsveen-endre-sormo/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/rundsveen-endre-sormo/</guid>
+      <description>Torsion, cotorsion and tilting in abelian categories</description>
+    </item>
+    
     <item>
       <title>Karl Kristian Ladegård Lockert</title>
       <link>https://fagkom.github.io/posts/lockert-karl/</link>
@@ -44,12 +53,66 @@
     </item>
     
     <item>
+      <title>Christina Sjøborg</title>
+      <link>https://fagkom.github.io/posts/sjoborg-christina-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/sjoborg-christina-2/</guid>
+      <description>Gentle algebras and a geometric model for the module category</description>
+    </item>
+    
+    <item>
+      <title>Håvard Utne Terland</title>
+      <link>https://fagkom.github.io/posts/terland-havard-utne/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/terland-havard-utne/</guid>
+      <description>Computing tau-rigid modules</description>
+    </item>
+    
+    <item>
       <title>Jacob Fjeld Grevstad</title>
       <link>https://fagkom.github.io/posts/grevstad-jacob-2/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/grevstad-jacob-2/</guid>
       <description>Finitistic dimension conjecture</description>
+    </item>
+    
+    <item>
+      <title>Jacob Sjødin</title>
+      <link>https://fagkom.github.io/posts/sjodin-jacob-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/sjodin-jacob-2/</guid>
+      <description>Privacy preserving computation with fully homomorphic encryption</description>
+    </item>
+    
+    <item>
+      <title>Jørgen Juel</title>
+      <link>https://fagkom.github.io/posts/juel-jorgen-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/juel-jorgen-2/</guid>
+      <description>Constructing isogenies between elliptic curves</description>
+    </item>
+    
+    <item>
+      <title>Kristoffer Brakstad</title>
+      <link>https://fagkom.github.io/posts/brakstad-kristoffer-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/brakstad-kristoffer-2/</guid>
+      <description>Triangulated derivators and their Calabi-Yau dimension</description>
+    </item>
+    
+    <item>
+      <title>Ole Berre</title>
+      <link>https://fagkom.github.io/posts/berre-ole-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/berre-ole-2/</guid>
+      <description>The derived category of exact categories and classification of exact structures</description>
     </item>
     
     <item>
@@ -122,6 +185,15 @@
       
       <guid>https://fagkom.github.io/posts/hagen-markus-valas/</guid>
       <description>Dedakind zeta functions</description>
+    </item>
+    
+    <item>
+      <title>Nora Røhnebæk Aasen</title>
+      <link>https://fagkom.github.io/posts/aasen-nora-rohnebaek/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/aasen-nora-rohnebaek/</guid>
+      <description>An introduction to copula theory</description>
     </item>
     
     <item>
@@ -206,6 +278,24 @@
     </item>
     
     <item>
+      <title>Einar Urdshals</title>
+      <link>https://fagkom.github.io/posts/urdshals-einar/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/urdshals-einar/</guid>
+      <description>Atomic dark matter with a massive mediator</description>
+    </item>
+    
+    <item>
+      <title>Asbjørn Torsvik Krüger</title>
+      <link>https://fagkom.github.io/posts/kruger-asbjorn-torsvik/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/kruger-asbjorn-torsvik/</guid>
+      <description>Electrohydrodynamics and particle sintering as methods for production of microporous capsules</description>
+    </item>
+    
+    <item>
       <title>Mona-Lena Norheim</title>
       <link>https://fagkom.github.io/posts/norheim-mona-lena/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -242,12 +332,30 @@
     </item>
     
     <item>
+      <title>Christina Sjøborg</title>
+      <link>https://fagkom.github.io/posts/sjoborg-christina/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/sjoborg-christina/</guid>
+      <description>Wedderburns teorem</description>
+    </item>
+    
+    <item>
       <title>Didrik Fosse</title>
       <link>https://fagkom.github.io/posts/fosse-didrik-2/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/fosse-didrik-2/</guid>
       <description>Rickard&amp;rsquo;s Morita theorem for derived categories</description>
+    </item>
+    
+    <item>
+      <title>Gert Kluge</title>
+      <link>https://fagkom.github.io/posts/kluge-gert/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/kluge-gert/</guid>
+      <description>Simulating particle cascades in the search for dark matter using cosmic neutrino observations</description>
     </item>
     
     <item>
@@ -302,15 +410,6 @@
       
       <guid>https://fagkom.github.io/posts/johansen-katrine/</guid>
       <description>???</description>
-    </item>
-    
-    <item>
-      <title>Kristina Sjøborg</title>
-      <link>https://fagkom.github.io/posts/sjoborg-kristina/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/posts/sjoborg-kristina/</guid>
-      <description>Wedderburns teorem</description>
     </item>
     
     <item>
@@ -395,6 +494,42 @@
     </item>
     
     <item>
+      <title>Elise Wright Knutsen</title>
+      <link>https://fagkom.github.io/posts/knutsen-elise-wright/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/knutsen-elise-wright/</guid>
+      <description>Dynamical-chemical coupling in the polar middle atmosphere</description>
+    </item>
+    
+    <item>
+      <title>Håkon Pedersen</title>
+      <link>https://fagkom.github.io/posts/pedersen-hakon/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/pedersen-hakon/</guid>
+      <description>Spin wave modulation in antiferromagnetic magnonic crystals with interfacial Dzyaloshinskii-Moriya interaction</description>
+    </item>
+    
+    <item>
+      <title>Jonas Lidal</title>
+      <link>https://fagkom.github.io/posts/lidal-jonas/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/lidal-jonas/</guid>
+      <description>Photon-assisted Landau-Zener transitions in driven few-level systems</description>
+    </item>
+    
+    <item>
+      <title>Ola Nielsen Estensen</title>
+      <link>https://fagkom.github.io/posts/estensen-ola-nielsen/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/estensen-ola-nielsen/</guid>
+      <description>Controlling nuclear field gradients in triple quantum dot by Landau-Zener sweeps</description>
+    </item>
+    
+    <item>
       <title>Peter Marius Flydal</title>
       <link>https://fagkom.github.io/posts/flydal-peter-marius-2/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
@@ -413,12 +548,48 @@
     </item>
     
     <item>
+      <title>Håvard Homleid Haugen</title>
+      <link>https://fagkom.github.io/posts/haugen-havard-homleid/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/haugen-havard-homleid/</guid>
+      <description>Two-component spin-orbit coupled ultracold atoms in the triangular lattice</description>
+    </item>
+    
+    <item>
       <title>Johanne Haugland</title>
       <link>https://fagkom.github.io/posts/haugland-johanne/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/haugland-johanne/</guid>
       <description>Classifying subcategories of triangulated categories</description>
+    </item>
+    
+    <item>
+      <title>Petter Taule</title>
+      <link>https://fagkom.github.io/posts/taule-petter/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/taule-petter/</guid>
+      <description>Applications of the Goldstone equivalence theorem to scattering and decay processes</description>
+    </item>
+    
+    <item>
+      <title>Frose Thorsen Børseth</title>
+      <link>https://fagkom.github.io/posts/borseth-frode-thorsen/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/borseth-frode-thorsen/</guid>
+      <description>Solving the inverse problem of electrical resistivity tomography by simulated annealing</description>
+    </item>
+    
+    <item>
+      <title>Lars Sivertsen</title>
+      <link>https://fagkom.github.io/posts/sivertsen-lars/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/sivertsen-lars/</guid>
+      <description>Neutron stars</description>
     </item>
     
     <item>
@@ -503,6 +674,15 @@
     </item>
     
     <item>
+      <title>Joakim Fremstad</title>
+      <link>https://fagkom.github.io/posts/fremstad-joakim/</link>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/fremstad-joakim/</guid>
+      <description>Rickard&amp;rsquo;s derived Morita theorem via strong homotopy actions</description>
+    </item>
+    
+    <item>
       <title>Brage Sæth</title>
       <link>https://fagkom.github.io/posts/saeth-brage/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
@@ -512,12 +692,39 @@
     </item>
     
     <item>
+      <title>Vegard Stenhjem Hagen</title>
+      <link>https://fagkom.github.io/posts/hagen-vegard-stenhjem/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/hagen-vegard-stenhjem/</guid>
+      <description>Advanced Mueller matrix imaging ellipsometry</description>
+    </item>
+    
+    <item>
+      <title>Dag-Morten Sjøstrøm</title>
+      <link>https://fagkom.github.io/posts/sjostrom-dag-morten/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/sjostrom-dag-morten/</guid>
+      <description>Bosons and fermions in curved spacetime</description>
+    </item>
+    
+    <item>
       <title>Torkil Utvik Stai</title>
       <link>https://fagkom.github.io/posts/stai-torkil-utvik/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/stai-torkil-utvik/</guid>
       <description>The ungraded derived category</description>
+    </item>
+    
+    <item>
+      <title>Andreas Wahl</title>
+      <link>https://fagkom.github.io/posts/wahl-andreas/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/wahl-andreas/</guid>
+      <description>Kan du velge fysikk uten å vite hva det er?</description>
     </item>
     
     

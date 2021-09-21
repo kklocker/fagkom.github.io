@@ -62,6 +62,15 @@
     </item>
     
     <item>
+      <title>Nora Røhnebæk Aasen</title>
+      <link>https://fagkom.github.io/posts/aasen-nora-rohnebaek/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/aasen-nora-rohnebaek/</guid>
+      <description>An introduction to copula theory</description>
+    </item>
+    
+    <item>
       <title>Preben Hast Sørli</title>
       <link>https://fagkom.github.io/posts/sorli-preben/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
@@ -116,6 +125,15 @@
     </item>
     
     <item>
+      <title>Christina Sjøborg</title>
+      <link>https://fagkom.github.io/posts/sjoborg-christina/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/sjoborg-christina/</guid>
+      <description>Wedderburns teorem</description>
+    </item>
+    
+    <item>
       <title>Jacob Fjeld Grevstad</title>
       <link>https://fagkom.github.io/posts/grevstad-jacob/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -167,15 +185,6 @@
       
       <guid>https://fagkom.github.io/posts/johansen-katrine/</guid>
       <description>???</description>
-    </item>
-    
-    <item>
-      <title>Kristina Sjøborg</title>
-      <link>https://fagkom.github.io/posts/sjoborg-kristina/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/posts/sjoborg-kristina/</guid>
-      <description>Wedderburns teorem</description>
     </item>
     
     <item>
@@ -311,6 +320,15 @@
       
       <guid>https://fagkom.github.io/posts/flydal-peter-marius/</guid>
       <description>The model category of simplicial groups is left proper</description>
+    </item>
+    
+    <item>
+      <title>Joakim Fremstad</title>
+      <link>https://fagkom.github.io/posts/fremstad-joakim/</link>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/fremstad-joakim/</guid>
+      <description>Rickard&amp;rsquo;s derived Morita theorem via strong homotopy actions</description>
     </item>
     
   </channel>

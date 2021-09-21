@@ -6,7 +6,16 @@
     <description>Recent content in Fagfelt on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/fagfelt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/fagfelt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algebra</title>
+      <link>https://fagkom.github.io/fagfelt/algebra/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/fagfelt/algebra/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Faststoff</title>
       <link>https://fagkom.github.io/fagfelt/faststoff/</link>
@@ -22,15 +31,6 @@
       <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/fagfelt/h%C3%B8yenergifysikk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algebra</title>
-      <link>https://fagkom.github.io/fagfelt/algebra/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/fagfelt/algebra/</guid>
       <description></description>
     </item>
     
@@ -55,9 +55,18 @@
     <item>
       <title>Statistikk</title>
       <link>https://fagkom.github.io/fagfelt/statistikk/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/fagfelt/statistikk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partikkelfysikk</title>
+      <link>https://fagkom.github.io/fagfelt/partikkelfysikk/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/fagfelt/partikkelfysikk/</guid>
       <description></description>
     </item>
     
@@ -67,6 +76,51 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/fagfelt/dna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Materialfysikk</title>
+      <link>https://fagkom.github.io/fagfelt/materialfysikk/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/fagfelt/materialfysikk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atmosfærefysikk</title>
+      <link>https://fagkom.github.io/fagfelt/atmosf%C3%A6refysikk/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/fagfelt/atmosf%C3%A6refysikk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teoretisk fysikk</title>
+      <link>https://fagkom.github.io/fagfelt/teoretisk-fysikk/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/fagfelt/teoretisk-fysikk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optikk</title>
+      <link>https://fagkom.github.io/fagfelt/optikk/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/fagfelt/optikk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fysikkdidaktikk</title>
+      <link>https://fagkom.github.io/fagfelt/fysikkdidaktikk/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/fagfelt/fysikkdidaktikk/</guid>
       <description></description>
     </item>
     

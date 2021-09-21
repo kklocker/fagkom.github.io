@@ -6,7 +6,16 @@
     <description>Recent content in Veileder on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steffen Oppermann</title>
+      <link>https://fagkom.github.io/veileder/steffen-oppermann/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/steffen-oppermann/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Alex Bentley Nielsen</title>
       <link>https://fagkom.github.io/veileder/alex-bentley-nielsen/</link>
@@ -44,11 +53,29 @@
     </item>
     
     <item>
+      <title>Aslak Bakke Buan</title>
+      <link>https://fagkom.github.io/veileder/aslak-bakke-buan/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/aslak-bakke-buan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gereon Quick</title>
       <link>https://fagkom.github.io/veileder/gereon-quick/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/veileder/gereon-quick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristian Gjøsteen</title>
+      <link>https://fagkom.github.io/veileder/kristian-gj%C3%B8steen/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/kristian-gj%C3%B8steen/</guid>
       <description></description>
     </item>
     
@@ -116,11 +143,29 @@
     </item>
     
     <item>
+      <title>Sigrid Grepstad</title>
+      <link>https://fagkom.github.io/veileder/sigrid-grepstad/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/sigrid-grepstad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sverre Smalø</title>
       <link>https://fagkom.github.io/veileder/sverre-smal%C3%B8/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/veileder/sverre-smal%C3%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thea Bjørnland</title>
+      <link>https://fagkom.github.io/veileder/thea-bj%C3%B8rnland/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/thea-bj%C3%B8rnland/</guid>
       <description></description>
     </item>
     
@@ -179,11 +224,29 @@
     </item>
     
     <item>
-      <title>Sigrid Grepstad</title>
-      <link>https://fagkom.github.io/veileder/sigrid-grepstad/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <title>Felix Kahlhoefer</title>
+      <link>https://fagkom.github.io/veileder/felix-kahlhoefer/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/veileder/sigrid-grepstad/</guid>
+      <guid>https://fagkom.github.io/veileder/felix-kahlhoefer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Kachelriess</title>
+      <link>https://fagkom.github.io/veileder/michael-kachelriess/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/michael-kachelriess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jon Otto Fossum</title>
+      <link>https://fagkom.github.io/veileder/jon-otto-fossum/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/jon-otto-fossum/</guid>
       <description></description>
     </item>
     
@@ -206,24 +269,6 @@
     </item>
     
     <item>
-      <title>Aslak Bakke Buan</title>
-      <link>https://fagkom.github.io/veileder/aslak-bakke-buan/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/veileder/aslak-bakke-buan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kristian Gjøsteen</title>
-      <link>https://fagkom.github.io/veileder/kristian-gj%C3%B8steen/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/veileder/kristian-gj%C3%B8steen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Louis-Philippe Thibault</title>
       <link>https://fagkom.github.io/veileder/louis-philippe-thibault/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -242,15 +287,6 @@
     </item>
     
     <item>
-      <title>Steffen Oppermann</title>
-      <link>https://fagkom.github.io/veileder/steffen-oppermann/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/veileder/steffen-oppermann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Øystein Skarsæterhagen</title>
       <link>https://fagkom.github.io/veileder/%C3%B8ystein-skars%C3%A6terhagen/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -260,11 +296,101 @@
     </item>
     
     <item>
+      <title>Arne Brataas</title>
+      <link>https://fagkom.github.io/veileder/arne-brataas/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/arne-brataas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeroen Danon</title>
+      <link>https://fagkom.github.io/veileder/jeroen-danon/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/jeroen-danon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrick Espy</title>
+      <link>https://fagkom.github.io/veileder/patrick-espy/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/patrick-espy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Troncoso</title>
+      <link>https://fagkom.github.io/veileder/roberto-troncoso/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/roberto-troncoso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Hansen</title>
+      <link>https://fagkom.github.io/veileder/alex-hansen/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/alex-hansen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kristian Seip</title>
       <link>https://fagkom.github.io/veileder/kristian-seip/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/veileder/kristian-seip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnus Lilledahl</title>
+      <link>https://fagkom.github.io/veileder/magnus-lilledahl/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/magnus-lilledahl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mikael Lindgren</title>
+      <link>https://fagkom.github.io/veileder/mikael-lindgren/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/mikael-lindgren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morten Kildemo</title>
+      <link>https://fagkom.github.io/veileder/morten-kildemo/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/morten-kildemo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kåre Olaussen</title>
+      <link>https://fagkom.github.io/veileder/k%C3%A5re-olaussen/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/k%C3%A5re-olaussen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berit Bungum</title>
+      <link>https://fagkom.github.io/veileder/berit-bungum/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/berit-bungum/</guid>
       <description></description>
     </item>
     
